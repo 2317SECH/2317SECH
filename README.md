@@ -7,9 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Construyendo+el+ecosistema+BIMO;IA+%2B+Automatizaci%C3%B3n+%2B+Software;Trading+algor%C3%ADtmico+%7C+E-commerce+%7C+Agentes+de+IA;Desde+Colombia+para+el+mundo+%F0%9F%8C%8E" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-quintero-patino-/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sergioq.p/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioquinterop996@gmail.com)
 
 </div>
@@ -152,9 +150,7 @@ Tienda construida sobre **Shopify**, con foco en producto y marca, no solo en ca
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-quintero-patino-/)
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sergioq.p/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![BIMO](https://img.shields.io/badge/BIMO-Sitio_Web-d4a017?style=for-the-badge&logo=airplayvideo&logoColor=white)](https://bimo-hub.vercel.app/)
 
 </div>
